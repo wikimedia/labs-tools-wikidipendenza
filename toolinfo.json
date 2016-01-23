@@ -1,0 +1,9 @@
+{
+	"name" : "wikidipendenza",
+	"title" : "Test Wikidipendenza",
+	"description" : "Wikiholism test from the Italian Wikipedia and Wikiversity.",
+	"url" : "https://tools.wmflabs.org/wikidipendenza/",
+	"keywords" : "wikipediholism, wikiholism, wikiholic, itwiki, itwikiversity, test",
+	"author" : "Ricordisamoa",
+	"repository" : "https://github.com/wikimedia/labs-tools-wikidipendenza"
+}
