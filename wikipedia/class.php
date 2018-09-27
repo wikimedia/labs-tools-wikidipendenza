@@ -29,7 +29,7 @@ class Wikipedia extends TestSource {
 
 	protected static $testSectionTitle = 'Il_test';
 
-	protected static $scoreSection = 4;
+	protected static $scoreSection = 3;
 
 	public static function getLinks() {
 		$links = parent::getLinks();
